@@ -4,7 +4,8 @@
 
 
 | Nama Anggota | NIM |
-| Adri Audifirst | 
+| Adri Audifirst | 24060121140152 |
+| -------------- | ---------- |
 | Aprilyanto Setiyawan Siburian |
 | Firdian Rahmawan |
 | Naufal Arya Rahmawan |
